@@ -1,4 +1,4 @@
-# Diffrent-Types-of-Cateract-Dtection-Using-CNN
+# Diffrent-Types-of-Cataract-Detection-Using-CNN
 
 An Image Processing Technique and a traditional Covolution Neural Network has been applied in this project. The first part of this project takes an Image(Healthy Eye/ Cateract Eye) as input and determines if there is a cateract. If there is an Image of a Healthy Eye, it returns a text box saying "Its a Healthy Eye". If there is an image of with cateract, it says its "Cateract Eye" and the CNN predicts the types of Cateract. The CNN is trained with two types if Cateract Images i.e Nuclear and Capsular.
 
