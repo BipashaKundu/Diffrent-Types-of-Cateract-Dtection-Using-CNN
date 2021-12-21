@@ -4,7 +4,7 @@ In this group project, an Image Processing Technique and a traditional Covolutio
 
 The Primary Accuracy: 80.33%
 
-Due to the limitaion of Images in the Dataset which is 138 in total, Data Augmentation has been applied. And later an comparison of accuracy have been provided with Data Augmentiona and Without Data Augmentation.
+Due to the limitaion of Images in the Dataset which is 138 in total, Data Augmentation has been applied. And later a comparison of accuracy have been provided with Data Augmentiona and Without Data Augmentation.
 
 
 ![image](https://user-images.githubusercontent.com/64612965/146973423-eaea2e8b-1cd7-4442-b8dc-f397b13354f4.png)
